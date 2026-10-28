@@ -1,0 +1,24 @@
+# Python virtual environments
+drug_tox_env/
+face_det_env/
+venv/
+.venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large dataset (optional: remove if you want to push tox21.csv to github; tox21.csv is ~361KB so it can be pushed safely)

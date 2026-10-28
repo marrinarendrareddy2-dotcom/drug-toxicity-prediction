@@ -1,0 +1,14 @@
+xgboost
+shap
+rdkit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+imbalanced-learn
+jupyter
+nbconvert
+ipykernel
+kaggle
+deepchem
